@@ -1,8 +1,8 @@
-#Simple blog with React.js
+# Simple blog with React.js
 
 This project uses a bootstrap template provided [here](https://github.com/BlackrockDigital/startbootstrap-clean-blog) and converts it to a React.js application.
 
-##Set up
+# #Set up
 - Clone the repo
 - cd into the repo
 - Run `npm install` to install the dependencies
