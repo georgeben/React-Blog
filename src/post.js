@@ -1,5 +1,5 @@
 
-const posts = [
+export const blogPosts = [
     {
         postTitle:"Man must explore, and this is exploration at its greatest",
         postSubtitle:"Problems look mighty small from 150 miles up",
@@ -21,3 +21,4 @@ const posts = [
         postDate:"July 8, 2018"
     }
 ]
+
