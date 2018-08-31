@@ -8,4 +8,4 @@ This project uses a bootstrap template provided [here](https://github.com/Blackr
 - Run `npm install` to install the dependencies
 - Run npm start to open app on the browser on `localhost:3000`
 
-Feel free to contribut. Thanks :heart:
+Feel free to contribute. Thanks :heart:
